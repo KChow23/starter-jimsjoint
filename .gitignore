@@ -5,3 +5,17 @@
 */cache/!index.html
 */cache/!.htaccess
 /nbproject/private/
+
+
+# IDE Files
+#-------------------------
+/nbproject/
+.idea/*
+
+## Sublime Text cache files
+*.tmlanguage.cache
+*.tmPreferences.cache
+*.stTheme.cache
+*.sublime-workspace
+*.sublime-project
+/application/config/development
